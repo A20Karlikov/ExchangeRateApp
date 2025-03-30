@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExchangeRateApp</string>
+
+    <string name="overview_screen_title">Your exchange rate app</string>
+    <string name="overview_screen_currency_section_subtitle">1 %s = %.3f %s</string>
+    <string name="overview_screen_currency_section_convert_from_title">Convert from:</string>
+    <string name="overview_screen_currency_section_convert_to_title">Convert to:</string>
+    <string name="overview_screen_currency_section_subtitle_none">---</string>
+    <string name="overview_screen_currency_section_amount_field_placeholder">Amount</string>
+    <string name="overview_screen_error_message">Oops, something went wrong</string>
+    <string name="overview_screen_go_to_details_button_title">Go to currency conversion</string>
+
+    <string name="currency_conversion_screen_title">Currency conversion</string>
+    <string name="currency_conversion_screen_summary_conversion_text">%s %s = %.3f %s</string>
+    <string name="currency_conversion_screen_go_back_button">Go back</string>
+</resources>
